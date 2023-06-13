@@ -9,4 +9,7 @@
     <ClInclude Include="console.h" />
     <ClInclude Include="breakout.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
 </Project>
