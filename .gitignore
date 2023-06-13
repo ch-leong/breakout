@@ -13,3 +13,8 @@
 *.txt
 *.iobj
 *.ipdb
+*.vsidx
+*.lock
+*.recipe
+*.exe
+*.suo
